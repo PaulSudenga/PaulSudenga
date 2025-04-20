@@ -1,6 +1,7 @@
 # <a href="https://www.linkedin.com/in/paulsudenga/">Paul Sudenga</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity.
+
 My love for cybersecurity began when I was just nine years old. One of my all-time favorite anime, Gundam Wing, introduced me to the world of computers and digital warfare—long before I even knew the term “cybersecurity.” As a kid, Gundam Wing blew my mind—hacking OZ, AI war machines, digital espionage. I didn’t just want to pilot a Gundam; I wanted to hack one.
 These projects reflect that same curiosity and determination that started back then. Feel free to explore them and see the work I’ve put into enhancing security operations and processes.
 
