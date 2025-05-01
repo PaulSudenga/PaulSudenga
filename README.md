@@ -8,12 +8,12 @@ These projects reflect that same curiosity and determination that started back t
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation](UPDATING)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](UPDATING)**
+- **[Vulnerability Management Program Implementation UPDATING
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH) UPDATING
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](UPDATING)**
+- **[Threat Hunting Scenario (Tor Browser Usage) UPDATING
 
 <hr/>
 
