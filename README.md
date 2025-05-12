@@ -8,7 +8,7 @@ These projects reflect that same curiosity and determination that started back t
 
 ## ⚠️ Vulnerability Management Projects
 
-- **[Vulnerability Management Program Implementation] (https://github.com/PaulSudenga/Vulnerability-Management-Program)**
+- **[Vulnerability Management Program Implementation](https://github.com/PaulSudenga/Vulnerability-Management-Program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH) UPDATING
 
 ## 🚨 Threat Hunting and Security Operations
