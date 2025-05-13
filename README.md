@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/cd5cc849-6d7a-4480-a05d-229055cac7f8)
+
+
 # <a href="https://www.linkedin.com/in/paulsudenga/">Paul Sudenga</a>'s IT and Cybersecurity Project Portfolio 🔐
 
 I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity.
