@@ -14,6 +14,8 @@ These projects reflect that same curiosity and determination that started back t
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PaulSudenga/Threat-Hunting-Scenario-Tor)**
 
+## 🏠💼 Home Enterprise Lab Environment
+
 <hr/>
 
 ## 🤳 Connect With Me
