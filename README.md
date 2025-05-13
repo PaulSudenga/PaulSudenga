@@ -13,7 +13,7 @@ These projects reflect that same curiosity and determination that started back t
 
 ## 🚨 Threat Hunting and Security Operations
 
-- **[Threat Hunting Scenario (Tor Browser Usage) UPDATING
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/PaulSudenga/Threat-Hunting-Scenario-Tor)**
 
 <hr/>
 
