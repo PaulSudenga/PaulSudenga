@@ -9,7 +9,6 @@ These projects reflect that same curiosity and determination that started back t
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/PaulSudenga/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH) UPDATING
 
 ## 🚨 Threat Hunting and Security Operations
 
@@ -23,9 +22,7 @@ These projects reflect that same curiosity and determination that started back t
 [<img align="left" alt="Paul Sudenga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
+
 [linkedin]: https://linkedin.com/in/paulsudenga
 
 <!--
