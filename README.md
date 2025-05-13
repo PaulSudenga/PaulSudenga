@@ -16,6 +16,9 @@ These projects reflect that same curiosity and determination that started back t
 
 ## 🏠💼 Home Enterprise Lab Environment
 
+[The Cyber Chamber](https://github.com/PaulSudenga/Home-Enterprise-Lab)
+
+
 <hr/>
 
 ## 🤳 Connect With Me
