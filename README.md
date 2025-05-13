@@ -1,4 +1,5 @@
-![image](https://github.com/user-attachments/assets/cd5cc849-6d7a-4480-a05d-229055cac7f8)
+![image](https://github.com/user-attachments/assets/90b104fc-b0cc-4ff6-bf33-9a36f96f1546)
+
 
 
 # <a href="https://www.linkedin.com/in/paulsudenga/">Paul Sudenga</a>'s IT and Cybersecurity Project Portfolio 🔐
